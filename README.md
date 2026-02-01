@@ -4,7 +4,7 @@ AI 기반 비즈니스 네트워크 관리 시스템입니다. 명함과 메모�
 
 ![main.png](https://cdn.discordapp.com/attachments/1466261696338460947/1467402452394442926/bde84e4697869926.png?ex=69804087&is=697eef07&hm=06d00ae87ebf989db238f51fc2d863baad0f3de7665ba9c0dd4b6360909ea2e6&)
 
-![flow](https://cdn.discordapp.com/attachments/1466261696338460947/1467402452939571419/flow.gif?ex=69804087&is=697eef07&hm=bc5aa9c2e395d9e8a5ac7f5d694cbd23c9d104507b4b0ce40748d9222ddb062d&)
+![Image](https://github.com/user-attachments/assets/1520e6a2-71d3-4312-80f5-f9b336a9e468)
 
 ---
 
